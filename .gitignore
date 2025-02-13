@@ -1,0 +1,10 @@
+new_env/
+*.dylib
+*.so
+#*.pth
+#*.npy
+new_env/
+*.dylib
+*.so
+*.pth
+*.npy

@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: trading_bot
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: torch
+Requires-Dist: fastapi
